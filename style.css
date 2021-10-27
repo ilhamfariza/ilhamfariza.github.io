@@ -1,0 +1,24 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: rgb(255, 200, 80);
+}
+#about {
+  background-color: #273036;
+  color: rgb(255, 200, 80);
+}
+#pendidikan {
+  background-color: rgb(255, 200, 80);
+  color: #273036;
+}
+#kepengurusan {
+  background-color: #273036;
+  color: rgb(255, 200, 80);
+}
+#skills {
+  background-color: rgb(255, 200, 80);
+  color: #273036;
+}
+#findme {
+  background-color: #273036;
+  color: rgb(255, 200, 80);
+}
