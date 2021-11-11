@@ -22,3 +22,44 @@
   background-color: #273036;
   color: rgb(255, 200, 80);
 }
+#daftar {
+  background-color: #273036;
+  color: rgb(255, 200, 80);
+  display: flex;
+  height: 600px;
+  justify-content: center;
+  padding-top: 5%;
+}
+.form-daftar {
+  height: 400px;
+  width: 400px;
+  background-color: rgb(255, 200, 80);
+  border-color: black;
+  border-radius: 5%;
+  text-align: start;
+}
+#hasil {
+  background-color: #273036;
+  color: rgb(255, 200, 80);
+  display: flex;
+  height: 600px;
+  justify-content: center;
+  padding-top: 5%;
+}
+.hasil-daftar {
+  height: fit-content;
+  width: fit-content;
+  background-color: rgb(255, 200, 80);
+  border-color: black;
+  border-radius: 5%;
+  text-align: start;
+}
+.button1 {
+  background-color: black;
+  border-radius: 30px;
+  color: white;
+}
+.button2 {
+  background-color: black;
+  border-radius: 10px;
+}
